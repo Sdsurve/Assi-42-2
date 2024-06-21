@@ -1,0 +1,15 @@
+.main-div{
+    margin: 2% auto;
+    display: flex;
+    
+
+}
+.pcardsContainers{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: space-around;
+    width: 100%;
+ 
+}
+
